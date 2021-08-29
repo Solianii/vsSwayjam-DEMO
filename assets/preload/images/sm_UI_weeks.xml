@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sm_UI_weeks.png">
+	<!-- Created with MY OWN DAMN HANDS -->
+	<SubTexture name="week0 select0000" x="0" y="0" width="466" height="104"/>
+	<SubTexture name="week0 idle0000" x="0" y="104" width="466" height="104"/>
+	
+	<SubTexture name="week1 select0000" x="466" y="0" width="358" height="109"/>
+	<SubTexture name="week1 idle0000" x="466" y="109" width="358" height="109"/>
+</TextureAtlas>

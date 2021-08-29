@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mm_buttons.png">
+	<!-- Created with MY OWN DAMN HANDS AAAAAAAAA but hey at least its organized :) -->
+	
+	<SubTexture name="story hover0000"	x="0" y="1"   width="1358" height="402"/>
+	<SubTexture name="story recent0000"	x="0" y="405" width="1358" height="402"/>
+	<SubTexture name="story idle0000" x="0" y="809" width="1358" height="402"/>
+	
+	<SubTexture name="freeplay hover0000"  x="1360" y="1"	 width="2095" height="402"/>
+	<SubTexture name="freeplay recent0000"   x="1360" y="405" width="2095" height="402"/>
+	<SubTexture name="freeplay idle0000" x="1360" y="809" width="2095" height="402"/>
+	
+	<SubTexture name="options hover0000" x="0" y="1213" width="1185" height="291"/>
+	<SubTexture name="options idle0000"  x="0" y="1506" width="1185" height="291"/>
+	
+	<SubTexture name="support hover0000" x="1187" y="1213" width="1243" height="291"/>
+	<SubTexture name="support idle0000"  x="1187" y="1506" width="1243" height="291"/>
+	
+	<SubTexture name="credits hover0000" x="0" y="1799" width="1061" height="292"/>
+	<SubTexture name="credits idle0000"  x="1063" y="1799" width="1061" height="292"/>
+	
+	<SubTexture name="discord hover0000" x="2432" y="1213" width="392" height="321"/>
+	<SubTexture name="discord idle0000"  x="2432" y="1536" width="392" height="321"/>
+	
+	<SubTexture name="twitch hover0000" x="2826" y="1213" width="345" height="385"/>
+	<SubTexture name="twitch idle0000"  x="2826" y="1600" width="345" height="385"/>
+	
+	<SubTexture name="arrow press0000" x="3173" y="1213" width="113" height="275"/>
+	<SubTexture name="arrow idle0000"  x="3173" y="1490" width="113" height="275"/>
+</TextureAtlas>

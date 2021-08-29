@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sm_UI.png">
+	<!-- Created with MY OWN DAMN HANDS -->
+	<SubTexture name="EASY0000" x="0" y="0" width="226" height="83"/>
+	<SubTexture name="NORMAL0000" x="226" y="0" width="366" height="83"/>
+	<SubTexture name="HARD0000" x="592" y="0" width="236" height="83"/>
+	
+	<SubTexture name="tracks0000" x="0" y="83" width="341" height="70"/>
+	
+	<SubTexture name="arrow right0000" x="626" y="83" width="39" height="92"/>
+	<SubTexture name="arrow push right0000" x="665" y="83" width="32" height="73"/>
+	<SubTexture name="arrow push left0000" x="697" y="83" width="32" height="73"/>
+	<SubTexture name="arrow left0000" x="729" y="83" width="39" height="92"/>
+	
+	<SubTexture name="lock0000" x="768" y="83" width="60" height="83"/>
+</TextureAtlas>

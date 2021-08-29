@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="00000" x="184" y="2" width="228" height="186"/> <!--swayjam-->
+	<SubTexture name="10000" x="414" y="2" width="153" height="228"/> <!--sol-->
+	<SubTexture name="20000" x="2" y="156" width="180" height="187"/><!--rose-->
+	<SubTexture name="30000" x="2" y="2" width="180" height="152"/><!--waffles-->
+	<SubTexture name="40000" x="184" y="232" width="252" height="193"/><!--rex-->
+	<SubTexture name="50000" x="569" y="2" width="212" height="198"/><!--shelly-->
+	<SubTexture name="60000" x="569" y="202" width="212" height="211"/><!--malu-->
+</TextureAtlas>
